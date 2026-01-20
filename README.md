@@ -38,7 +38,7 @@ This project was developed as part of the **CodeAlpha Python Programming Interns
 2. Create the following folder structure:
 
 CodeAlpha_FileAutomation/
----
+
 │── file_automation.py
 │
 ├── source_files/
@@ -47,7 +47,6 @@ CodeAlpha_FileAutomation/
 │ ├── notes.txt
 │
 ├── destination_files/
----
 
 
 3. Open terminal or IDLE  
@@ -66,8 +65,6 @@ python file_automation.py
 
 🎉 Total .jpg files moved: 2
 
-
----
 
 ## 📂 Project Structure
 ```
@@ -92,3 +89,4 @@ CodeAlpha_FileAutomation/
 ## 👩‍💻 Author
 Vani Sri Rao  
 Python Programming Intern – CodeAlpha
+
