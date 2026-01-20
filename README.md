@@ -64,6 +64,7 @@ python file_automation.py
 🎉 Total .jpg files moved: 2
 
 ---
+
 ## 📂 Project Structure
 ```
 CodeAlpha_FileAutomation/
@@ -72,7 +73,7 @@ CodeAlpha_FileAutomation/
 │
 ├── source_files/
 ├── destination_files/
-
+```
 
 ---
 
@@ -87,5 +88,6 @@ CodeAlpha_FileAutomation/
 ## 👩‍💻 Author
 Vani Sri Rao  
 Python Programming Intern – CodeAlpha
+
 
 
