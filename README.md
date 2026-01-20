@@ -36,9 +36,8 @@ This project was developed as part of the **CodeAlpha Python Programming Interns
 ## ▶️ How to Run the Project
 1. Install Python (version 3.x)  
 2. Create the following folder structure:
-
+```
 CodeAlpha_FileAutomation/
-
 │── file_automation.py
 │
 ├── source_files/
@@ -47,8 +46,7 @@ CodeAlpha_FileAutomation/
 │ ├── notes.txt
 │
 ├── destination_files/
-
-
+```
 3. Open terminal or IDLE  
 4. Navigate to the project folder  
 5. Run the script:
@@ -65,7 +63,7 @@ python file_automation.py
 
 🎉 Total .jpg files moved: 2
 
-
+---
 ## 📂 Project Structure
 ```
 CodeAlpha_FileAutomation/
@@ -89,4 +87,5 @@ CodeAlpha_FileAutomation/
 ## 👩‍💻 Author
 Vani Sri Rao  
 Python Programming Intern – CodeAlpha
+
 
